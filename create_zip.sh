@@ -6,7 +6,7 @@ echo "Generating zip..."
 
 zipFileName="find-this-pixel-anomaly-presskit.zip"
 
-zip -r "../dist/$zipFileName" . -x '**/.*' -x '**/__MACOSX'
+zip -r "../$zipFileName" . -x '**/.*' -x '**/__MACOSX'
 echo "Done in $zipFileName"
 
 exit 0
