@@ -1,0 +1,45 @@
+
+In Find This Pixel Anomaly your task involves monitoring real-time surveillance camera feeds. Identify any irregularities within the monitored areas. These anomalies can vary from missing furniture to cute visitors.
+
+Found an anomaly? File a report and hope it will get fixed in time. Otherwise you will get in trouble, because too many anomalies will end the game.
+
+===========
+ANOMALIES
+===========
+
+Each map contains 20 individual anomalies and 3 recurring anomalies. Every playthrough is unique because the anomalies are randomly placed.
+
+EXTRA OBJECT
+
+Wait, was this chair here before? Who put it there? Well, it doesn't matter because you should hurry up and file a report. Some items are obvious, but the devil is in the details.
+
+INTRUDER
+
+They may look cute, but these creatures are up to no good. They are masters of disguise so keep an eye on them.
+
+IMAGE
+
+A picture is worth a thousand words. But 1000 words won't save you either. Look out for paintings, signs and posters.
+
+MISSING OBJECT
+
+Is there something missing here or are you just paranoid? Whenever an object is swallowed by the ground, file a report.
+
+THERE ARE MORE TYPES OF ANOMALIES
+
+But nothing beats a little secret. Can you find all of them?
+
+
+======
+MAPS
+======
+
+Find nearly 100 anomalies on 4 maps!
+
+Museum
+
+Mall
+
+??? (to be announced)
+
+??? (to be announced)

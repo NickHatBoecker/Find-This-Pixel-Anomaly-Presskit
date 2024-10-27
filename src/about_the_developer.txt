@@ -1,0 +1,16 @@
+
+name: NickHatBoecker
+real name: Nick Böcker
+country: Germany
+website: https://nick-hat-boecker.de/linktree
+
+Web developer by day and a game developer by night. Trying to rock Godot Engine in his free time 🤘 Whenever he's not writing code, he loves singing on YouTube or spending time with his wife and their dog.
+
+He turned his hobby into a profession. Or is it the other way around? In any case, there are only a few days he doesn't program or think about at least one line of code.
+
+=================
+SOCIAL NETWORKS:
+=================
+
+Bluesky: https://bsky.app/profile/nickhatboecker.bsky.social
+X: https://x.com/NickHatBoecker

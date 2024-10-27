@@ -1,0 +1,2 @@
+
+A cozy-horror game where you have to monitor surveillance camera footage to spot anomalies. Have you seen anything suspicious? File a report to fix it. But beware - too many anomalies will end the game.
