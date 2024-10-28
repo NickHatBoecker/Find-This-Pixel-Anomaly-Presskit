@@ -10,11 +10,12 @@ price: TBD
 developer: NickHatBoecker
 publisher: NickHatBoecker
 
-Similar games: I'm On Observation Duty, Exit 8, Shinkanzen 0
+Similar games: I'm On Observation Duty / Exit 8 / Shinkanzen 0
 
 =============
-STORE LINKS
+### LINKS ###
 =============
 
+Landingpage: https://nick-hat-boecker.de/find-this-pixel-anomaly/
 Steam: https://store.steampowered.com/app/3290400/Find_This_Pixel_Anomaly/
 Itch: https://nickhatboecker.itch.io/find-this-pixel-anomaly
