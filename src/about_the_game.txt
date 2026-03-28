@@ -1,12 +1,12 @@
 
 name: Find This Pixel Anomaly
-genres: Puzzle, Hidden Object, Horro, Pixel Graphics
-controls: Keyboard & Mouse, Gamepad
-languages (Interface): English, German, French, Spanish, Italian
+genres: Hidden Object, Cozy-Horror, 2D Pixel Graphics
+controls: Mouse / Keyboard & Mouse / Gamepad
+languages (Interface): English, German, French, Spanish, Italian, Brazilian Portugese, Simplified Chinese
 languages (Full Audio): /
-release date: 2025 (TBD)
+release date: 08.04.2026
 platforms: Windows, Linux
-price: TBD
+price: 4,99$
 developer: NickHatBoecker
 publisher: NickHatBoecker
 
@@ -16,6 +16,6 @@ Similar games: I'm On Observation Duty / Exit 8 / Shinkanzen 0
 ### LINKS ###
 =============
 
-Landingpage: https://nick-hat-boecker.de/find-this-pixel-anomaly/
+Landingpage: https://nickhatboecker.de/find-this-pixel-anomaly/
 Steam: https://store.steampowered.com/app/3290400/Find_This_Pixel_Anomaly/
 Itch: https://nickhatboecker.itch.io/find-this-pixel-anomaly
