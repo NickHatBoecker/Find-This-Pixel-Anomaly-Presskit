@@ -3,6 +3,13 @@ In Find This Pixel Anomaly your task involves monitoring real-time surveillance 
 
 Found an anomaly? File a report and hope it will get fixed in time. Otherwise you will get in trouble, because too many anomalies will end the game.
 
+
+===========
+NIGHT VISION
+===========
+
+Activate Night Vision to reveal only the most elusive anomalies lurking in the shadows. But don’t get too comfortable — this mode limits what you can see, making every mistake potentially fatal. Focus on the hidden details and spot the threats before they end your game.
+
 ===========
 ANOMALIES
 ===========
